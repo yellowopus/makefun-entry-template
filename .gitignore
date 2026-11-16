@@ -1,0 +1,14 @@
+# Secrets and local state — never commit these.
+*.key
+*.pem
+*keypair*.json
+*credentials*
+*.env
+.env
+usage*.jsonl
+*_usage.jsonl
+__pycache__/
+*.pyc
+sample-output/
+out/
+output/
